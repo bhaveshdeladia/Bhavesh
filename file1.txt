@@ -1,3 +1,5 @@
 Hello, I am a new file. I am a change. A new change after feature-b branch.
 A change from the master branch.
 I am a change from feature-c branch.
+i have done clone and push
+Hi , ihad clone, did changes and pull and push
