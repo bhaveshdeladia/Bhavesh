@@ -1,1 +1,2 @@
-Hello, I am a new file. I am a change. A new change after feature-b branch.
+Hello, I am a new file. I am a change. A new change after feature-b branch. 
+I am a change from feature-c branch.
